@@ -5,11 +5,7 @@
 </p>
 
 <hr/>
-
-<img src="https://pnganime.com/gallery/puchita-png" alt="Pochita clásico" width="200">
-
-
-
+<img src="https://pnganime.com/gallery/puchita-png" alt="Pochita sentado" width="200">
 {  
 
 * 👂 `My name is`: **Rodrigo**,
