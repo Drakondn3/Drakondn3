@@ -6,7 +6,7 @@
 
 <hr/>
 
-<img src="https://static.wikia.nocookie.net/chainsaw-man/images/5/52/Pochita_Anime_Design.png" alt="Pochita" width="200"/>
+<img src="[https://static.wikia.nocookie.net/chainsaw-man/images/5/52/Pochita_Anime_Design.png](https://www.pngmart.com/files/23/Pochita-PNG.png)" alt="Pochita" width="200"/>
 
 
 {  
