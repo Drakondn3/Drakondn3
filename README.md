@@ -11,7 +11,6 @@
 {  
 
 * 👂 `My name is`: **Rodrigo**,
-* 👩 `Pronouns`: **She/Her**,
 * ⚡ `I'm`: **22 years old**,
 * 🌱 `I’m currently learning`: **Rust**,
 * ❤️ `I love`: **Caramel macchiato**,
