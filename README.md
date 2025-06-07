@@ -1,12 +1,14 @@
 <h2 align="center">👋 Hi there</h2>
 
-<p align="rigth">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=Drakondn3&color=blue"/>
 </p>
 
 <hr/>
-<img src="https://github.com/user-attachments/assets/3c5adaf8-7f93-4ca8-be7a-be0ea2d26250" alt="Pochita sentado" width="250">
 
+<p align= "center"> 
+<img src="https://github.com/user-attachments/assets/3c5adaf8-7f93-4ca8-be7a-be0ea2d26250" alt="Pochita sentado" width="250"/>
+</p>
 
 {  
 
