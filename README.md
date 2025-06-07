@@ -4,7 +4,7 @@ Desarrollador autodidacta aprendiendo día a día.
 
 ## 📈 Estadísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=juan123&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Rodrigo&show_icons=true&theme=tokyonight)
 
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=juan123&layout=compact&theme=tokyonight)
 
@@ -16,6 +16,7 @@ Desarrollador autodidacta aprendiendo día a día.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
 
 ## 📚 En aprendizaje
 
