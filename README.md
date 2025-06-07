@@ -5,7 +5,7 @@
 </p>
 
 <hr/>
-<img src="https://github.com/user-attachments/assets/3c5adaf8-7f93-4ca8-be7a-be0ea2d26250" alt="Pochita sentado" width="200">
+<img src="https://github.com/user-attachments/assets/3c5adaf8-7f93-4ca8-be7a-be0ea2d26250" alt="Pochita sentado" width="400">
 
 
 {  
