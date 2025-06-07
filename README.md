@@ -6,7 +6,8 @@
 
 <hr/>
 
-<img align='right' src='https://octodex.github.com/images/femalecodertocat.png' width='25%'>
+<img align='right' src='<img src="https://static.wikia.nocookie.net/chainsaw-man/images/5/52/Pochita_Anime_Design.png" alt="Pochita" width="200"/>
+' width='25%'>
 
 {  
 
