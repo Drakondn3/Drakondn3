@@ -5,7 +5,7 @@
 </p>
 
 <hr/>
-<img src="[https://static.wikia.nocookie.net/chainsaw-man/images/8/84/Pochita_Anime.png](https://github.com/user-attachments/assets/7134ef97-015f-476d-9780-5fc3ca0f951e)" alt="Pochita sentado" width="200">
+<img src="![Pochita-PNG](https://github.com/user-attachments/assets/3c5adaf8-7f93-4ca8-be7a-be0ea2d26250)" alt="Pochita sentado" width="200">
 
 
 {  
