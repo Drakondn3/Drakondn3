@@ -6,7 +6,8 @@
 
 <hr/>
 
-<img src="<img src="https://i.imgur.com/rGoCEBt.png" alt="Pochita" width="200">
+<img src="https://pnganime.com/gallery/puchita-png" alt="Pochita clásico" width="200">
+
 
 
 {  
