@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hola, soy Rodrigo
 
-<!--
-**Drakondn3/Drakondn3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador autodidacta aprendiendo día a día.
 
-Here are some ideas to get you started:
+## 📈 Estadísticas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Stats](https://github-readme-stats.vercel.app/api?username=juan123&show_icons=true&theme=tokyonight)
+
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=juan123&layout=compact&theme=tokyonight)
+
+## 🏆 Trofeos
+
+[![Trofeos](https://github-profile-trophy.vercel.app/?username=juan123&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🚀 Lenguajes
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+## 📚 En aprendizaje
+
+- 📌 C++
+- 📌 React
+
